@@ -22,12 +22,14 @@ The objective of this project is to perform basic data exploration and data clea
 5. Filtered products having ratings greater than 4.0.
 6. Selected relevant columns for further analysis.
 7. Checked and removed duplicate records.
-8. Created two derived columns named discount_amount and total_amount.
-   
-   *discount_amount=final_price - initial_price
+8. Created two derived columns named "discount_amount" and "total_amount".
+
+   * discount_amount = initial_price - final_price
    * Since the dataset did not contain a quantity column, a quantity of 1 was assumed.
    * Therefore, total_amount was set equal to final_price.
-9. Saved the cleaned dataset into a new CSV file named as ecommerce_dataset_cleaned.csv
+
+9. Saved the cleaned dataset as "ecommerce_dataset_cleaned.csv" .
+
 
 ## Files Included
 
