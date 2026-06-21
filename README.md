@@ -33,7 +33,7 @@ The objective of this project is to perform basic data exploration and data clea
 
 ## Files Included
 
-* Ecommerce_Data_Cleaning_Analysis.ipynb
+* assignment_01.ipynb
 * ecommerce_dataset_cleaned.csv
 * README.md
 
