@@ -20,14 +20,13 @@ This repository contains my internship assignments completed as part of the **Ce
 
 * `assignment_01.ipynb`
 * `ecommerce_dataset_cleaned.csv`
+* `README.md`
 
 ---
 
 ### Assignment 02 – SQL Database Projects
 
-* assignment_01.ipynb
-* ecommerce_dataset_cleaned.csv
-* README.md
+#### Project A - Superstore Sales Analysis
 
 **Topics Covered**
 
@@ -62,7 +61,7 @@ This repository contains my internship assignments completed as part of the **Ce
 **Files**
 
 * `ecommerce_database.sql`
-* `Ecommerce_Assignment.ipynb`
+* `WordFile.ipynb`
 * `README.md`
 
 ---
