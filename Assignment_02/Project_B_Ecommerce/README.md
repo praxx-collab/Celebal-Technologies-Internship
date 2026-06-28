@@ -38,7 +38,7 @@ The objective of this project is to design and analyze an E-Commerce Sales Datab
 ## Files Included
 
 * `ecommerce_database.sql` – Complete SQL script with all queries.
-* `Ecommerce_Assignment.ipynb` – Jupyter Notebook containing SQL queries, outputs, and explanations.
+* `WordFile.ipynb` – Jupyter Notebook containing SQL queries, outputs, and explanations.
 
 ---
 
