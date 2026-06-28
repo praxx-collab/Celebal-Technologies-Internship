@@ -1,46 +1,84 @@
-# Assignment - 1
-# Ecommerce Data Cleaning and Exploration using Pandas
+# Celebal Technologies Internship
 
-## Objective
+This repository contains my internship assignments completed as part of the **Celebal Technologies Internship Program**. Each assignment demonstrates practical applications of Python, SQL, data analysis, and database management concepts.
 
-The objective of this project is to perform basic data exploration and data cleaning operations on an ecommerce dataset using Python and Pandas.
+---
 
-## Steps Performed
+## Repository Structure
 
-1. Loaded the dataset into a Pandas DataFrame.
-2. Explored the dataset using:
+### Assignment 01 – Basic Data Exploration & Cleaning with Pandas
 
-   * head()
-   * shape
-   * columns
-   * info()
-3. Identified missing values using isnull().sum().
-4. Handled missing values:
+**Topics Covered**
 
-   * Filled missing discount values with 0.
-   * Filled missing text-based fields with suitable values such as "Unknown", "No Reviews", and "Not Available".
-5. Filtered products having ratings greater than 4.0.
-6. Selected relevant columns for further analysis.
-7. Checked and removed duplicate records.
-8. Created two derived columns named "discount_amount" and "total_amount".
+* Data loading and inspection
+* Handling missing values
+* Data cleaning
+* Data preprocessing
+* Exploratory Data Analysis (EDA)
 
-   * discount_amount = initial_price - final_price
-   * Since the dataset did not contain a quantity column, a quantity of 1 was assumed.
-   * Therefore, total_amount was set equal to final_price.
+**Files**
 
-9. Saved the cleaned dataset as "ecommerce_dataset_cleaned.csv" .
+* `assignment_01.ipynb`
+* `ecommerce_dataset_cleaned.csv`
 
+---
 
-## Files Included
+### Assignment 02 – SQL Database Projects
 
-* Ecommerce_Data_Cleaning_Analysis.ipynb
-* ecommerce_dataset_cleaned.csv
-* README.md
+#### Project A – Superstore Sales Analysis
 
-## Tools Used
+**Topics Covered**
+
+* SQL Queries
+* Aggregation
+* Filtering
+* Group By
+* Business Insights
+* MySQL Analysis
+
+**Files**
+
+* `ecommerce_sales.sql`
+* `SQL_Analysis.ipynb`
+* `BUSINESS INSIGHTS.txt`
+* `README.md`
+
+---
+
+#### Project B – E-Commerce Sales Database
+
+**Topics Covered**
+
+* Database Design
+* SQL Queries
+* Joins
+* Aggregation
+* CASE Statements
+* Transactions
+* ACID Properties
+
+**Files**
+
+* `ecommerce_database.sql`
+* `Ecommerce_Assignment.ipynb`
+* `README.md`
+
+---
+
+## Technologies Used
 
 * Python
 * Pandas
+* MySQL
 * Jupyter Notebook
-* GitHub
+* VS Code
+* Git & GitHub
+
+---
+
+## Author
+
+**Prachurya Nanda**
+
+Data Engineer Intern | Computer Science Engineering Student
 

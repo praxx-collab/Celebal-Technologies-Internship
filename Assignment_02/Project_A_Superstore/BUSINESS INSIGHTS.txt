@@ -1,0 +1,22 @@
+BUSINESS INSIGHTS 
+-----------------------
+
+The dataset contains 9694 sales records. 
+
+2. The West region generated the highest total sales among all regions. 
+
+3. Technology was the highest revenue-generating product category.
+
+4. Office Supplies recorded the highest quantity sold. 
+
+5. Home Office customers had the highest average sales value.
+
+6. Sean Miller was the highest-value customer based on total sales.
+
+7. Canon imageCLASS 2200 Advanced Copier was the top-selling product.
+
+8. No NULL values were found in the Sales and Profit columns, indicating good data quality.
+
+9. Duplicate Order IDs were observed because a single order can contain multiple products. This is expected behaviour and does not indicate duplicate records.
+
+10. SQL filtering, aggregation, sorting, and validation techniques were successfully applied to analyse the sales data.
