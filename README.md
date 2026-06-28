@@ -25,7 +25,9 @@ This repository contains my internship assignments completed as part of the **Ce
 
 ### Assignment 02 – SQL Database Projects
 
-#### Project A – Superstore Sales Analysis
+* assignment_01.ipynb
+* ecommerce_dataset_cleaned.csv
+* README.md
 
 **Topics Covered**
 
