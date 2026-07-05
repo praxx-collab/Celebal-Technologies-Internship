@@ -65,6 +65,31 @@ This repository contains my internship assignments completed as part of the **Ce
 * `README.md`
 
 ---
+---
+
+### Assignment 03 – Advanced SQL Analysis using Superstore Dataset
+
+**Topics Covered**
+
+* Subqueries
+* Correlated Subqueries
+* Common Table Expressions (CTEs)
+* Window Functions
+* ROW_NUMBER() and RANK()
+* JOIN Operations
+* Business Analysis using SQL
+* Customer Sales Insights
+
+**Files**
+
+* `Raw Superstore.csv`
+* `advanced_superstore.sql`
+* `Advanced_Superstore_notebook.ipynb`
+* `Brief_Insights.txt`
+* `README.md`
+
+---
+
 
 ## Technologies Used
 
