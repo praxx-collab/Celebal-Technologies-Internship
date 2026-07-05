@@ -37,13 +37,18 @@ The dataset contains information related to:
 
 ## Project Structure
 
+## Project Structure
+
 ```text
 Assignment_03
 │
+├── Raw Superstore.csv
 ├── advanced_superstore.sql
 ├── Advanced_SQL_Analysis.ipynb
-├── BUSINESS_INSIGHTS.txt
+├── Brief_Insights.txt
 └── README.md
+```
+
 ```
 
 ---
@@ -88,6 +93,7 @@ Assignment_03
 - `Advanced_SQL_Analysis.ipynb`
 - `BUSINESS_INSIGHTS.txt`
 - `README.md`
+- `Raw Superstore.csv`
 
 ---
 
