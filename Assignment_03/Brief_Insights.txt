@@ -1,0 +1,25 @@
+=========================================================
+BUSINESS INSIGHTS
+Assignment 03 – Advanced SQL Analysis
+Celebal Technologies Internship
+=========================================================
+
+1. The analysis identified the top five customers who contribute the highest revenue, making them ideal candidates for loyalty programs and personalized marketing.
+
+2. The bottom five customers generated the least revenue, indicating opportunities for targeted promotional campaigns and customer engagement.
+
+3. Several customers placed only one order, highlighting potential areas where customer retention strategies can improve repeat purchases.
+
+4. Customers with total sales above the average represent high-value customers and can be prioritized for premium services and special offers.
+
+5. The highest order value analysis provides insights into customer purchasing behavior and spending capacity.
+
+6. Common Table Expressions (CTEs) simplified complex aggregations and improved query readability.
+
+7. Window Functions such as RANK() and ROW_NUMBER() enabled efficient customer ranking and sequential record numbering without complex subqueries.
+
+8. The final combined query demonstrated the integration of Joins, CTEs, and Window Functions to generate a comprehensive customer sales report.
+
+=========================================================
+End of Report
+=========================================================
