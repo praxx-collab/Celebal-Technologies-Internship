@@ -61,7 +61,7 @@ The pipeline executed successfully. The metadata of the source file was validate
 ```text
 Assignment_04/
 │
-├── Assignment_4.docx
+├── Azure Cloud Fundamentals and Data Pipeline.md
 ├── README.md
 │
 └── Screenshots/
