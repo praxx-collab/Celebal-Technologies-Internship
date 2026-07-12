@@ -59,24 +59,27 @@ The pipeline executed successfully. The metadata of the source file was validate
 ## Project Structure
 
 ```text
-Assignment_4
+Assignment_04/
 │
-├── 01_Resource_Group.png
-├── 02_Storage_Account.png
-├── 03_Blob_Container_CSV.png
-├── 004.png
-├── 04_Azure_Data_Factory_Overview.png
-├── 05_ADF_Studio_Home.png
-├── 06_Linked_Service.png
-├── 07_Source_Dataset_Published.png
-├── 08_Destination_Dataset.png
-├── 09_Get_Metadata_Activity.png
-├── 10A_Source_Tab.png
-├── 10B_Sink_Tab.png
-├── 11_Pipeline_Execution_&_Success.png
-├── 12_Output_Superstore_Copy.png
-├── 13_IAM.png
-└── README.md
+├── Assignment_4.docx
+├── README.md
+│
+└── Screenshots/
+    ├── 004.png
+    ├── 01_Resource_Group.png
+    ├── 02_Storage_Account.png
+    ├── 03_Blob_Container_CSV.png
+    ├── 04_Azure_Data_Factory_Overview.png
+    ├── 05_ADF_Studio_Home.png
+    ├── 06_Linked_Service.png
+    ├── 07_Source_Dataset_Published.png
+    ├── 08_Destination_Dataset.png
+    ├── 09_Get_Metadata_Activity.png
+    ├── 10A_Source_Tab.png
+    ├── 10B_Sink_Tab.png
+    ├── 11_Pipeline_Execution_&_Success.png
+    ├── 12_Output_Superstore_Copy.png
+    └── 13_IAM.png
 ```
 
 ---
