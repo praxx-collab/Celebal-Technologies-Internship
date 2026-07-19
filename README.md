@@ -114,11 +114,37 @@ This repository contains my internship assignments completed as part of the **Ce
 
 ---
 
+### Assignment 05 – Spark Fundamentals and Data Processing using PySpark
+
+**Topics Covered**
+
+* Apache Spark Fundamentals
+* MapReduce vs Spark
+* Spark DataFrames
+* DataFrame Immutability
+* Data Cleaning
+* Filtering & Transformations
+* Aggregation Functions
+* GroupBy Operations
+* Shuffle (Wide Transformations)
+* Schema Modification
+* Data Processing Pipeline
+
+**Files**
+
+* `spark_assignment.ipynb`
+* `brief_insights.txt`
+* `README.md`
+* `Screenshots/`
+
+---
+
 ## Technologies Used
 
 * Python
 * Pandas
 * MySQL
+* Apache Spark (PySpark)
 * Microsoft Azure
 * Azure Storage Account
 * Azure Blob Storage
@@ -126,7 +152,6 @@ This repository contains my internship assignments completed as part of the **Ce
 * Jupyter Notebook
 * VS Code
 * Git & GitHub
-
 ---
 
 ## Author
