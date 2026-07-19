@@ -1,0 +1,15 @@
+Assignment 05 - Brief Insights
+
+1. Apache Spark performs in-memory computation, making it significantly faster than traditional MapReduce for iterative and real-time data processing.
+
+2. Data cleaning operations such as removing duplicates and handling null values improve data quality and ensure reliable analytical results.
+
+3. Filtering and aggregation operations help extract meaningful business insights from large datasets efficiently.
+
+4. Spark DataFrames are immutable; every transformation creates a new DataFrame, improving reliability and enabling query optimization.
+
+5. GroupBy operations involve data shuffling across partitions, which is a wide transformation and can affect performance.
+
+6. Proper schema management and data type conversion improve data consistency and reduce processing errors.
+
+7. The final processing pipeline demonstrated duplicate removal, null value handling, and revenue aggregation using PySpark DataFrames.
