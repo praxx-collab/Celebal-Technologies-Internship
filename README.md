@@ -90,12 +90,39 @@ This repository contains my internship assignments completed as part of the **Ce
 
 ---
 
+### Assignment 04 – Azure Cloud Fundamentals and Data Pipeline using Azure Data Factory
+
+**Topics Covered**
+
+* Azure Cloud Fundamentals
+* Azure Resource Group
+* Azure Storage Account
+* Azure Blob Storage
+* Azure Data Factory (ADF)
+* Linked Service Configuration
+* Source & Destination Datasets
+* Get Metadata Activity
+* Copy Data Activity
+* Pipeline Validation & Execution
+* IAM (Access Control)
+
+**Files**
+
+* `Azure Cloud Fundamentals and Data Pipeline.md`
+* `README.md`
+* `Screenshots/`
+
+---
 
 ## Technologies Used
 
 * Python
 * Pandas
 * MySQL
+* Microsoft Azure
+* Azure Storage Account
+* Azure Blob Storage
+* Azure Data Factory (ADF)
 * Jupyter Notebook
 * VS Code
 * Git & GitHub
